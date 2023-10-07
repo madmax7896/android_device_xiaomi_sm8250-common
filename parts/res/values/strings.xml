@@ -48,4 +48,11 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Gaming</string>
     <string name="thermal_streaming">Streaming</string>
+
+    <!-- Dolby Atmos -->
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Enable</string>
+    <string name="dolby_summary">Surround sound</string>
+    <string name="dolby_profile_title">Choose a profile</string>
+    <string name="dolby_profile_dynamic">Dynamic</string>
 </resources>
